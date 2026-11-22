@@ -1,0 +1,57 @@
+node_modules
+dist
+*.log
+.DS_Store
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Web & Vite build outputs
+dist/
+dist-ssr/
+*.local
+
+# Logs & OS / Editor files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Reference PDFs & backup JSON files
+*.pdf
+*.json.bak
+bullet_jlpt_backup_*.json
+
+# Android / Gradle / Capacitor generated artifacts
+android/.gradle/
+android/build/
+android/app/build/
+android/app/src/main/assets/public/
+android/captures/
+android/local.properties
+android/.idea/workspace.xml
+android/.idea/navEditor.xml
+android/.idea/assetWizardSettings.xml
+android/.idea/dictionaries/
+android/.idea/caches/
+*.iml
+*.apk
+*.aab
+*.keystore
+*.jks
