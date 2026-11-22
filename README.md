@@ -1,6 +1,10 @@
 # 🚄 Bullet JLPT — JLPT N5 Edition
 
 **Bullet JLPT** is an offline-first Japanese vocabulary memorization app built for learners preparing for the **JLPT N5** exam. Powered by a custom Spaced Repetition System (SRS) and wrapped with Capacitor for native Android performance, it helps you pace through **1,046 N5 words** on your own schedule—no internet connection required.
+---
+# User Interface
+![UI](Design.png)
+---
 
 ## ✨ Features
 - **Complete JLPT N5 Dataset (1,046 Words):** Includes Kanji, Kana readings, English meanings, and contextual example sentences with Furigana support.
